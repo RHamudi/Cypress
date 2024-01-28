@@ -1,0 +1,18 @@
+{
+  "name": "Cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": "https://github.com/RHamudi/Cypress.git",
+  "author": "RHamudi <94305379+RHamudi@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.17.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  }
+}
